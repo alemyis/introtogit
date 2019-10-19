@@ -6,6 +6,9 @@ Actors
 	•	Item receiver
 	•	Supplier
 	•	Purchase manager
+
+
+
 Requirements 
 	•	Integrated barcode scanner - that can support instant item labeling and identification.
 	•	Automated inventory tracking- Admin and store keepers should be able to know the quantity available, committed, ordered, and out of stock items and item history
@@ -19,5 +22,7 @@ Requirements
 	•	cycle counting
 	•	Transfer management
 	•	User Management
+
+
 
 

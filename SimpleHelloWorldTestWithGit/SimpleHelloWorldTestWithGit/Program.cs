@@ -11,7 +11,7 @@ namespace SimpleHelloWorldTestWithGit
 
         public static int Add(int a, int b)
         {
-            throw new NotImplementedException("Someone please impliment this");
+            return a + b;
         }
 
         public static int Subtraction(int a, int b)
